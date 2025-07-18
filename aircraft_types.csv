@@ -1,0 +1,473 @@
+url,Aircraft Name,First Flight,Aircraft Engines
+https://asn.flightsafety.org/database/type/JCOM,Aero Commander 1121 Jet Commander, 1963, 2 Jet engines
+https://asn.flightsafety.org/database/type/gupt,Aero Spacelines Mini Guppy Turbine, 1970, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/S601,Aérospatiale SN.601 Corvette, 1970, 2 Jet engines
+https://asn.flightsafety.org/database/type/_A220,Airbus A220, , 2 Jet engines
+https://asn.flightsafety.org/database/type/BCS1,Airbus A220-100, 2013, 2 Jet engines
+https://asn.flightsafety.org/database/type/BCS3,Airbus A220-300, 2015, 2 Jet engines
+https://asn.flightsafety.org/database/type/_A300,Airbus A300, , 2 Jet engines
+https://asn.flightsafety.org/database/type/A306,Airbus A300-600, 1983, 2 Jet engines
+https://asn.flightsafety.org/database/type/A30B,Airbus A300B2/B4/C4, 1972, 2 Jet engines
+https://asn.flightsafety.org/database/type/A310,Airbus A310, 1982, 2 Jet engines
+https://asn.flightsafety.org/database/type/A319,Airbus A319, 1995, 2 Jet engines
+https://asn.flightsafety.org/database/type/A320,Airbus A320, 1987, 2 Jet engines
+https://asn.flightsafety.org/database/type/_A320,Airbus A320 family (classic), , 2 Jet engines
+https://asn.flightsafety.org/database/type/_A320,Airbus A320 family (classic), , 2 Jet engines
+https://asn.flightsafety.org/database/type/_A20N,Airbus A320 family (neo), , 2 Jet engines
+https://asn.flightsafety.org/database/type/_A20N,Airbus A320 family (neo), , 2 Jet engines
+https://asn.flightsafety.org/database/type/A20N,Airbus A320neo, 2014, 2 Jet engines
+https://asn.flightsafety.org/database/type/A321,Airbus A321, 1993, 2 Jet engines
+https://asn.flightsafety.org/database/type/A21N,Airbus A321neo, 2016, 2 Jet engines
+https://asn.flightsafety.org/database/type/A332,Airbus A330-200, 1992, 2 Jet engines
+https://asn.flightsafety.org/database/type/A333,Airbus A330-300, 1992, 2 Jet engines
+https://asn.flightsafety.org/database/type/A339,Airbus A330-900, 2017, 2 Jet engines
+https://asn.flightsafety.org/database/type/_A340,Airbus A340 (all series), , 4 Jet engines
+https://asn.flightsafety.org/database/type/_A340,Airbus A340 (all series), , 4 Jet engines
+https://asn.flightsafety.org/database/type/A342,Airbus A340-200, 1991, 4 Jet engines
+https://asn.flightsafety.org/database/type/A343,Airbus A340-300, 1991, 4 Jet engines
+https://asn.flightsafety.org/database/type/A345,Airbus A340-500, 2002, 4 Jet engines
+https://asn.flightsafety.org/database/type/A346,Airbus A340-600, 2001, 4 Jet engines
+https://asn.flightsafety.org/database/type/_A350,Airbus A350, , 2 Jet engines
+https://asn.flightsafety.org/database/type/_A350,Airbus A350, , 2 Jet engines
+https://asn.flightsafety.org/database/type/A35K,Airbus A350-1000, 2016, 2 Jet engines
+https://asn.flightsafety.org/database/type/A359,Airbus A350-900, 2013, 2 Jet engines
+https://asn.flightsafety.org/database/type/A388,Airbus A380, 2005, 4 Jet engines
+https://asn.flightsafety.org/database/type/A400,Airbus Military A400M, 2009, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/amba,Airspeed AS.57 Ambassador, 1947, 2 Piston engines
+https://asn.flightsafety.org/database/type/C27J,Alenia C-27J, 1999, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/G222,Alenia G-222, 1970, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/an10,Antonov An-10, 1957, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/AN12,Antonov An-12, 1957, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/A124,Antonov An-124, 1982, 4 Jet engines
+https://asn.flightsafety.org/database/type/A140,Antonov An-140, 1997, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/A148,Antonov An-148, 2004, 2 Jet engines
+https://asn.flightsafety.org/database/type/AN2,Antonov An-2, 1947, 1 Piston engine
+https://asn.flightsafety.org/database/type/AN22,Antonov An-22, 1965, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/A225,Antonov An-225, 1988, 6 Jet engines
+https://asn.flightsafety.org/database/type/AN24,Antonov An-24, 1959, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AN26,Antonov An-26, 1969, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AN28,Antonov An-28 / PZL M-28, 1969, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AN3,Antonov An-3, 1980, 1 Turboprop engine
+https://asn.flightsafety.org/database/type/AN30,Antonov An-30, 1967, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AN32,Antonov An-32, 1976, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AN70,Antonov An-70, 1994, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/AN72,Antonov An-72 / An-74, 1977, 2 Jet engines
+https://asn.flightsafety.org/database/type/A743,Antonov An-74-300, , 2 Jet engines
+https://asn.flightsafety.org/database/type/AN8,Antonov An-8, 1956, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/argo,Armstrong Whitworth Argosy, 1926, 3 Piston engines
+https://asn.flightsafety.org/database/type/aw65,Armstrong Whitworth AW-650 Argosy, 1959, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/atal,Armstrong Whitworth AW.15 Atalanta, 1932, 4 Piston engines
+https://asn.flightsafety.org/database/type/aw27,Armstrong Whitworth AW.27 Ensign, 1938, 4 Piston engines
+https://asn.flightsafety.org/database/type/_AT42,ATR 42 (all series), , 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AT43,ATR 42-300, 1984, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AT45,ATR 42-500, 1994, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AT46,ATR 42-600, 2010, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/_AT72,ATR 72 (all series), , 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AT72,ATR 72-200, 1988, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AT73,ATR 72-210, , 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AT75,ATR 72-500, 1996, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/AT76,ATR 72-600, 2009, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/jtpd,Avcen Jetpod, 2009, 2 Jet engines
+https://asn.flightsafety.org/database/type/CARV,Aviation Traders ATL-98 Carvair, 1961, 4 Piston engines
+https://asn.flightsafety.org/database/type/a685,Avro 685 York, 1942, 4 Piston engines
+https://asn.flightsafety.org/database/type/a691,Avro 691 Lancastrian, 1943, 4 Piston engines
+https://asn.flightsafety.org/database/type/_B146,Avro RJ / BAe-146, , 2 Jet engines
+https://asn.flightsafety.org/database/type/RJ1H,Avro RJ-100, 1992, 4 Jet engines
+https://asn.flightsafety.org/database/type/RJ70,Avro RJ-70, 1992, 4 Jet engines
+https://asn.flightsafety.org/database/type/RJ85,Avro RJ-85, 1992, 4 Jet engines
+https://asn.flightsafety.org/database/type/tudr,Avro Tudor, 1945, 4 Piston engines
+https://asn.flightsafety.org/database/type/b152,Baade 152, 1958, 4 Jet engines
+https://asn.flightsafety.org/database/type/BA11,BAC One-Eleven, 1963, 2 Jet engines
+https://asn.flightsafety.org/database/type/CONC,BAC/Aérospatiale Concorde, 1969, 4 Jet engines
+https://asn.flightsafety.org/database/type/_H25,BAe-125 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/DC3T,Basler DC-3-65TP, , 2 Turboprop engines
+https://asn.flightsafety.org/database/type/B190,Beechcraft 1900, 1982, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/be34,Beechcraft 34 Twin Quad, 1947, 4 Piston engines
+https://asn.flightsafety.org/database/type/PRM1,Raytheon Premier 1, 1998, 2 Jet engines
+https://asn.flightsafety.org/database/type/BE99,Beechcraft 99, 1966, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/BE40,Beechcraft Beechjet 400, 1986, 2 Jet engines
+https://asn.flightsafety.org/database/type/BER2,Beriev Be-200, 1998, 2 Jet engines
+https://asn.flightsafety.org/database/type/BE32,Beriev Be-30, 1967, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/bevl,Blackburn Beverley, 1950, 4 Piston engines
+https://asn.flightsafety.org/database/type/b155,Blériot 155, 1925, 4 Piston engines
+https://asn.flightsafety.org/database/type/b314,Boeing 314, 1938, 4 Piston engines
+https://asn.flightsafety.org/database/type/b377,Boeing 377 Stratocruiser, 1947, 4 Piston engines
+https://asn.flightsafety.org/database/type/_B707,Boeing 707 (all series), , 4 Jet engines
+https://asn.flightsafety.org/database/type/_B707,Boeing 707 (all series), , 4 Jet engines
+https://asn.flightsafety.org/database/type/B701,Boeing 707-100, 1957, 4 Jet engines
+https://asn.flightsafety.org/database/type/B703,Boeing 707-300, 1959, 4 Jet engines
+https://asn.flightsafety.org/database/type/B704,Boeing 707-400, , 4 Jet engines
+https://asn.flightsafety.org/database/type/B712,Boeing 717, 1998, 2 Jet engines
+https://asn.flightsafety.org/database/type/B720,Boeing 720, 1959, 4 Jet engines
+https://asn.flightsafety.org/database/type/_B727,Boeing 727 (all series), , 3 Jet engines
+https://asn.flightsafety.org/database/type/_B727,Boeing 727 (all series), , 3 Jet engines
+https://asn.flightsafety.org/database/type/B721,Boeing 727-100, 1963, 3 Jet engines
+https://asn.flightsafety.org/database/type/B722,Boeing 727-200, 1967, 3 Jet engines
+https://asn.flightsafety.org/database/type/_B73C,Boeing 737 Classic, , 2 Jet engines
+https://asn.flightsafety.org/database/type/_B73C,Boeing 737 Classic, , 2 Jet engines
+https://asn.flightsafety.org/database/type/B38M,Boeing 737 MAX 8, 2016, 2 Jet engines
+https://asn.flightsafety.org/database/type/B39M,Boeing 737 MAX 9, 2017, 2 Jet engines
+https://asn.flightsafety.org/database/type/_B73M,Boeing 737 MAX family, , 2 Jet engines
+https://asn.flightsafety.org/database/type/_B73M,Boeing 737 MAX family, , 2 Jet engines
+https://asn.flightsafety.org/database/type/_B73N,Boeing 737 NG, , 2 Jet engines
+https://asn.flightsafety.org/database/type/_B73N,Boeing 737 NG, , 2 Jet engines
+https://asn.flightsafety.org/database/type/B731,Boeing 737-100, 1967, 2 Jet engines
+https://asn.flightsafety.org/database/type/B732,Boeing 737-200, 1967, 2 Jet engines
+https://asn.flightsafety.org/database/type/B733,Boeing 737-300, 1984, 2 Jet engines
+https://asn.flightsafety.org/database/type/B734,Boeing 737-400, 1988, 2 Jet engines
+https://asn.flightsafety.org/database/type/B735,Boeing 737-500, 1989, 2 Jet engines
+https://asn.flightsafety.org/database/type/B736,Boeing 737-600, 1998, 2 Jet engines
+https://asn.flightsafety.org/database/type/B737,Boeing 737-700, 1997, 2 Jet engines
+https://asn.flightsafety.org/database/type/B738,Boeing 737-800, 1997, 2 Jet engines
+https://asn.flightsafety.org/database/type/B739,Boeing 737-900, 2000, 2 Jet engines
+https://asn.flightsafety.org/database/type/_B747,Boeing 747 (all series), , 4 Jet engines
+https://asn.flightsafety.org/database/type/_B747,Boeing 747 (all series), , 4 Jet engines
+https://asn.flightsafety.org/database/type/B741,Boeing 747-100, 1969, 4 Jet engines
+https://asn.flightsafety.org/database/type/B742,Boeing 747-200, 1970, 4 Jet engines
+https://asn.flightsafety.org/database/type/B743,Boeing 747-300, 1982, 4 Jet engines
+https://asn.flightsafety.org/database/type/B744,Boeing 747-400, 1988, 4 Jet engines
+https://asn.flightsafety.org/database/type/B748,Boeing 747-8, 2010, 4 Jet engines
+https://asn.flightsafety.org/database/type/B74S,Boeing 747SP, 1975, 4 Jet engines
+https://asn.flightsafety.org/database/type/B74R,Boeing 747SR, 1973, 4 Jet engines
+https://asn.flightsafety.org/database/type/_B757,Boeing 757 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/_B757,Boeing 757 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/B752,Boeing 757-200, 1982, 2 Jet engines
+https://asn.flightsafety.org/database/type/B753,Boeing 757-300, 1998, 2 Jet engines
+https://asn.flightsafety.org/database/type/_B767,Boeing 767 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/_B767,Boeing 767 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/B762,Boeing 767-200, 1981, 2 Jet engines
+https://asn.flightsafety.org/database/type/B763,Boeing 767-300, 1986, 2 Jet engines
+https://asn.flightsafety.org/database/type/B764,Boeing 767-400, 1999, 2 Jet engines
+https://asn.flightsafety.org/database/type/_B777,Boeing 777 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/_B777,Boeing 777 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/B772,Boeing 777-200, 1994, 2 Jet engines
+https://asn.flightsafety.org/database/type/B77L,Boeing 777-200LR, , 2 Jet engines
+https://asn.flightsafety.org/database/type/B773,Boeing 777-300, 1997, 2 Jet engines
+https://asn.flightsafety.org/database/type/B77W,Boeing 777-300ER, 2003, 2 Jet engines
+https://asn.flightsafety.org/database/type/_B787,Boeing 787 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/_B787,Boeing 787 (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/B788,Boeing 787-8 Dreamliner, 2009, 2 Jet engines
+https://asn.flightsafety.org/database/type/B789,Boeing 787-9 Dreamliner, 2013, 2 Jet engines
+https://asn.flightsafety.org/database/type/C135,Boeing C-135, 1965, 4 Jet engines
+https://asn.flightsafety.org/database/type/C97,Boeing C-97 Stratofreighter, 1944, 4 Piston engines
+https://asn.flightsafety.org/database/type/BLCF,Boeing Dreamlifter, 2006, 4 Jet engines
+https://asn.flightsafety.org/database/type/E3TF,Boeing E-3 Sentry, 1972, 4 Jet engines
+https://asn.flightsafety.org/database/type/E6,Boeing E-6 Mercury, 1987, 4 Jet engines
+https://asn.flightsafety.org/database/type/K35A,Boeing KC-135A Stratotanker, , 4 Jet engines
+https://asn.flightsafety.org/database/type/K35E,Boeing KC-135E Stratotanker, , 4 Jet engines
+https://asn.flightsafety.org/database/type/K35R,Boeing KC-135R Stratotanker, , 4 Jet engines
+https://asn.flightsafety.org/database/type/P8,Boeing P-8 Poseidon, 2009, 2 Jet engines
+https://asn.flightsafety.org/database/type/R135,Boeing RC-135, , 4 Jet engines
+https://asn.flightsafety.org/database/type/s307,Boeing S.307 Stratoliner, 1938, 4 Piston engines
+https://asn.flightsafety.org/database/type/CL30,Bombardier Challenger 300, 2001, 2 Jet engines
+https://asn.flightsafety.org/database/type/CL35,Bombardier Challenger 350, 2013, 2 Jet engines
+https://asn.flightsafety.org/database/type/_CRJ,Bombardier CRJ family, , 2 Jet engines
+https://asn.flightsafety.org/database/type/CRJ7,Bombardier CRJ700, 1999, 2 Jet engines
+https://asn.flightsafety.org/database/type/CRJ9,Bombardier CRJ900, 2001, 2 Jet engines
+https://asn.flightsafety.org/database/type/GL5T,Bombardier Global 5000, 2003, 2 Jet engines
+https://asn.flightsafety.org/database/type/GL7T,Bombardier Global 7500, 2016, 2 Jet engines
+https://asn.flightsafety.org/database/type/GLEX,Bombardier Global Express, 1996, 2 Jet engines
+https://asn.flightsafety.org/database/type/_GLEX,Bombardier Global Express (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/b730,Breguet 730, 1938, 4 Piston engines
+https://asn.flightsafety.org/database/type/prvc,Breguet Br.763 Provence, 1949, 4 Piston engines
+https://asn.flightsafety.org/database/type/brtn,Bristol 175 Britannia, 1952, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/B170,Bristol Freighter, 1945, 2 Piston engines
+https://asn.flightsafety.org/database/type/_B146,Avro RJ / BAe-146, , 2 Jet engines
+https://asn.flightsafety.org/database/type/ATP,British Aerospace ATP, 1986, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/H25C,British Aerospace BAe-125-1000, , 2 Jet engines
+https://asn.flightsafety.org/database/type/B461,British Aerospace BAe-146-100, 1981, 4 Jet engines
+https://asn.flightsafety.org/database/type/B462,British Aerospace BAe-146-200, 1982, 4 Jet engines
+https://asn.flightsafety.org/database/type/B463,British Aerospace BAe-146-300, 1987, 4 Jet engines
+https://asn.flightsafety.org/database/type/JS31,British Aerospace Jetstream 31, 1980, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/JS32,British Aerospace Jetstream 32, 1988, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/JS41,British Aerospace Jetstream 41, 1991, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/TRIS,Britten-Norman BN-2A Trislander, 1970, 3 Piston engines
+https://asn.flightsafety.org/database/type/bc93,Budd C-93 Conestoga, 1943, 2 Piston engines
+https://asn.flightsafety.org/database/type/argt,Canadair Argonaut / North Star, 1946, 4 Piston engines
+https://asn.flightsafety.org/database/type/CL2P,Canadair CL-215, 1967, 2 Piston engines
+https://asn.flightsafety.org/database/type/CL2T,Canadair CL-415, 1993, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/CL44,Canadair CL-44, 1959, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/CL60,Canadair CL-600 Challenger, 1978, 2 Jet engines
+https://asn.flightsafety.org/database/type/args,Canadair CP-107 Argus, 1957, 4 Piston engines
+https://asn.flightsafety.org/database/type/CRJ1,Canadair Regional Jet CRJ-100, 1991, 2 Jet engines
+https://asn.flightsafety.org/database/type/CRJ2,Canadair Regional Jet CRJ-200, 1995, 2 Jet engines
+https://asn.flightsafety.org/database/type/_CRJ,Bombardier CRJ family, , 2 Jet engines
+https://asn.flightsafety.org/database/type/ca60,Caproni Ca.60 Noviplano, 1921, 8 Piston engines
+https://asn.flightsafety.org/database/type/C295,CASA C-295, 1997, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/C212,CASA/Nurtanio C-212 Aviocar, 1971, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/CN35,CASA/Nurtanio CN.235, 1983, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/C208,Cessna 208 Caravan, 1982, 1 Turboprop engine
+https://asn.flightsafety.org/database/type/C500,Cessna 500 Citation I, 1969, 2 Jet engines
+https://asn.flightsafety.org/database/type/C501,Cessna 501 Citation 1/SP, , 2 Jet engines
+https://asn.flightsafety.org/database/type/C510,Cessna 510 Citation Mustang, 2005, 2 Jet engines
+https://asn.flightsafety.org/database/type/C25M,Cessna 525 Citation M2, 2012, 2 Jet engines
+https://asn.flightsafety.org/database/type/C25A,Cessna 525A CitationJet CJ2, 1999, 2 Jet engines
+https://asn.flightsafety.org/database/type/C25B,Cessna 525B CitationJet CJ3, 2003, 2 Jet engines
+https://asn.flightsafety.org/database/type/C25C,Cessna 525C Citation CJ4, , 2 Jet engines
+https://asn.flightsafety.org/database/type/C525,Cessna 525 CitationJet, 1991, 2 Jet engines
+https://asn.flightsafety.org/database/type/C55B,Cessna 550 Citation Bravo, 1995, 2 Jet engines
+https://asn.flightsafety.org/database/type/C550,Cessna 550 Citation II, 1995, 2 Jet engines
+https://asn.flightsafety.org/database/type/C551,Cessna 551 Citation, , 2 Jet engines
+https://asn.flightsafety.org/database/type/C56X,Cessna 560 Citation Excel, 1996, 2 Jet engines
+https://asn.flightsafety.org/database/type/C560,Cessna 560 Citation V, 1987, 2 Jet engines
+https://asn.flightsafety.org/database/type/C650,Cessna 650 Citation III / VII, 1979, 2 Jet engines
+https://asn.flightsafety.org/database/type/C680,Cessna 680 Citation Sovereign, 2002, 2 Jet engines
+https://asn.flightsafety.org/database/type/C750,Cessna 750 Citation X, 1993, 2 Jet engines
+https://asn.flightsafety.org/database/type/SF50,Cirrus Vision SF50, 2008, 1 Jet engine
+https://asn.flightsafety.org/database/type/CAT,Consolidated PBY Catalina, 1941, 2 Piston engines
+https://asn.flightsafety.org/database/type/CVLP,Convair CV-240/340/440, 1951, 2 Piston engines
+https://asn.flightsafety.org/database/type/CVLT,Convair CV-580/600/640, 1954, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/cv88,Convair CV-880, 1959, 4 Jet engines
+https://asn.flightsafety.org/database/type/CV99,Convair CV-990, 1961, 4 Jet engines
+https://asn.flightsafety.org/database/type/C46,Curtiss C-46, 1940, 2 Piston engines
+https://asn.flightsafety.org/database/type/FA10,Dassault Falcon 10/20, 1970, 2 Jet engines
+https://asn.flightsafety.org/database/type/FA20,Dassault Falcon 20, 1963, 2 Jet engines
+https://asn.flightsafety.org/database/type/F2TH,Dassault Falcon 2000, 1993, 2 Jet engines
+https://asn.flightsafety.org/database/type/FA50,Dassault Falcon 50, 1976, 3 Jet engines
+https://asn.flightsafety.org/database/type/FA7X,Dassault Falcon 7X, 2005, 3 Jet engines
+https://asn.flightsafety.org/database/type/F900,Dassault Falcon 900, 1984, 3 Jet engines
+https://asn.flightsafety.org/database/type/DHC3,de Havilland Canada DHC-3 Otter, 1951, 1 Piston engine
+https://asn.flightsafety.org/database/type/DH3T,de Havilland Canada DHC-3T Turbine Otter, 1984, 1 Turboprop engine
+https://asn.flightsafety.org/database/type/DHC4,de Havilland Canada DHC-4 Caribou, 1958, 2 Piston engines
+https://asn.flightsafety.org/database/type/DHC5,de Havilland Canada DHC-5 Buffalo, 1964, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/DHC6,de Havilland Canada DHC-6 Twin Otter, 1965, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/DHC7,de Havilland Canada DHC-7, 1975, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/DH8A,de Havilland Canada DHC-8-100, 1983, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/DH8B,de Havilland Canada DHC-8-200, , 2 Turboprop engines
+https://asn.flightsafety.org/database/type/DH8C,de Havilland Canada DHC-8-300, 1987, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/DH8D,de Havilland Canada DHC-8-400, 1998, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/COMT,de Havilland DH-106 Comet, 1949, 4 Jet engines
+https://asn.flightsafety.org/database/type/HERN,de Havilland DH-114 Heron, 1950, 4 Piston engines
+https://asn.flightsafety.org/database/type/dh66,de Havilland DH-66 Hercules, 1926, 3 Piston engines
+https://asn.flightsafety.org/database/type/dh86,de Havilland DH-86 Express, 1934, 4 Piston engines
+https://asn.flightsafety.org/database/type/dh91,de Havilland DH-91 Albatross, 1937, 4 Piston engines
+https://asn.flightsafety.org/database/type/dh95,de Havilland DH-95 Flamingo, 1938, 4 Piston engines
+https://asn.flightsafety.org/database/type/d338,Dewoitine D.338, 1935, 3 Piston engines
+https://asn.flightsafety.org/database/type/D228,Dornier 228, 1981, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/D328,Dornier 328, 1991, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/J328,Dornier 328JET, 1998, 2 Jet engines
+https://asn.flightsafety.org/database/type/dor,Dornier Do R Superwal, 1926, 4 Piston engines
+https://asn.flightsafety.org/database/type/D28D,Dornier Do-28D Skyservant, 1966, 2 Piston engines
+https://asn.flightsafety.org/database/type/c124,Douglas C-124 Globemaster, 1949, 4 Piston engines
+https://asn.flightsafety.org/database/type/C133,Douglas C-133 Cargomaster, 1956, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/c74,Douglas C-74 Globemaster I, 1945, 4 Piston engines
+https://asn.flightsafety.org/database/type/dc1,Douglas DC-1, 1933, 2 Piston engines
+https://asn.flightsafety.org/database/type/DC2,Douglas DC-2, 1934, 2 Piston engines
+https://asn.flightsafety.org/database/type/DC3,Douglas DC-3, 1935, 2 Piston engines
+https://asn.flightsafety.org/database/type/DC4,Douglas DC-4, 1938, 4 Piston engines
+https://asn.flightsafety.org/database/type/dc5,Douglas DC-5, 1939, 2 Piston engines
+https://asn.flightsafety.org/database/type/DC6,Douglas DC-6, 1946, 4 Piston engines
+https://asn.flightsafety.org/database/type/DC7,Douglas DC-7, 1953, 4 Piston engines
+https://asn.flightsafety.org/database/type/DC81,Douglas DC-8-10, , 4 Jet engines
+https://asn.flightsafety.org/database/type/DC82,Douglas DC-8-20, , 4 Jet engines
+https://asn.flightsafety.org/database/type/DC83,Douglas DC-8-30, , 4 Jet engines
+https://asn.flightsafety.org/database/type/DC84,Douglas DC-8-40, , 4 Jet engines
+https://asn.flightsafety.org/database/type/DC85,Douglas DC-8-50, , 4 Jet engines
+https://asn.flightsafety.org/database/type/DC3S,Douglas R4D-8, 1949, 2 Piston engines
+https://asn.flightsafety.org/database/type/EA50,Eclipse 500, 2002, 2 Jet engines
+https://asn.flightsafety.org/database/type/_E170,Embraer E-Jet family, , 2 Jet engines
+https://asn.flightsafety.org/database/type/E110,Embraer EMB-110 Bandeirante, 1968, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/E120,Embraer EMB-120 Brasilia, 1983, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/E135,Embraer EMB-135/140, 1998, 2 Jet engines
+https://asn.flightsafety.org/database/type/E35L,Embraer EMB-135BJ Legacy, 2001, 2 Jet engines
+https://asn.flightsafety.org/database/type/E145,Embraer EMB-145, 1995, 2 Jet engines
+https://asn.flightsafety.org/database/type/E45X,Embraer EMB-145XR, , 2 Jet engines
+https://asn.flightsafety.org/database/type/E50P,Embraer EMB-500 Phenom 100, 2007, 2 Jet engines
+https://asn.flightsafety.org/database/type/E55P,Embraer EMB-505 Phenom 300, 2008, 2 Jet engines
+https://asn.flightsafety.org/database/type/E545,Embraer EMB-545 Legacy 450, 2013, 2 Jet engines
+https://asn.flightsafety.org/database/type/E550,Embraer EMB-550 Legacy 500, 2012, 2 Jet engines
+https://asn.flightsafety.org/database/type/_E135,Embraer ERJ family, , 2 Jet engines
+https://asn.flightsafety.org/database/type/E170,Embraer ERJ-170, 2002, 2 Jet engines
+https://asn.flightsafety.org/database/type/E190,Embraer ERJ-190, 2004, 2 Jet engines
+https://asn.flightsafety.org/database/type/E195,Embraer ERJ-195, , 2 Jet engines
+https://asn.flightsafety.org/database/type/KC39,Embraer KC-390, 2015, 2 Jet engines
+https://asn.flightsafety.org/database/type/_E500,Embraer Phenom (all series), , 2 Jet engines
+https://asn.flightsafety.org/database/type/SJET,Excel-Jet Sport-Jet, 2006, 1 Jet engine
+https://asn.flightsafety.org/database/type/C119,Fairchild C-119 Flying Boxcar, 1947, 2 Piston engines
+https://asn.flightsafety.org/database/type/C123,Fairchild C-123 Provider, 1949, 2 Piston engines
+https://asn.flightsafety.org/database/type/C82,Fairchild C-82 Packet, 1944, 2 Piston engines
+https://asn.flightsafety.org/database/type/f220,Farman F.220, 1932, 4 Piston engines
+https://asn.flightsafety.org/database/type/glth,Farman F.60 Goliath, 1919, 2 Piston engines
+https://asn.flightsafety.org/database/type/g212,Fiat G.212, 1947, 3 Piston engines
+https://asn.flightsafety.org/database/type/IA50,FMA IA 50 Guaraní II, 1963, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/fw2h,Focke-Wulf FW.200 Condor, 1937, 4 Piston engines
+https://asn.flightsafety.org/database/type/F100,Fokker 100, 1986, 2 Jet engines
+https://asn.flightsafety.org/database/type/F50,Fokker 50, 1985, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/F70,Fokker 70, 1993, 2 Jet engines
+https://asn.flightsafety.org/database/type/F27,Fokker F-27 Friendship, 1955, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/F28,Fokker F-28 Fellowship, 1967, 2 Jet engines
+https://asn.flightsafety.org/database/type/f32,Fokker F.32, 1929, 4 Piston engines
+https://asn.flightsafety.org/database/type/f12,Fokker F.XII, 1931, 3 Piston engines
+https://asn.flightsafety.org/database/type/f20,Fokker F.XX, 1933, 3 Piston engines
+https://asn.flightsafety.org/database/type/fo22,Fokker F.XXII, 1935, 4 Piston engines
+https://asn.flightsafety.org/database/type/f36,Fokker F.XXXVI, 1934, 4 Piston engines
+https://asn.flightsafety.org/database/type/TRIM,Ford Tri-Motor, 1926, 3 Piston engines
+https://asn.flightsafety.org/database/type/NOMA,GAF Nomad, 1971, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/GSPN,Grob SPn, 2005, 2 Jet engines
+https://asn.flightsafety.org/database/type/GLF2,Grumman American G-1159 Gulfstream 2, 1966, 2 Jet engines
+https://asn.flightsafety.org/database/type/U16,Grumman G-111 Albatross, 1946, 2 Piston engines
+https://asn.flightsafety.org/database/type/G159,Grumman G-159 Gulfstream I, 1958, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/G73,Grumman G-73 Mallard, 1946, 2 Piston engines
+https://asn.flightsafety.org/database/type/G73T,Grumman G-73T Turbo Mallard, 1969, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/G150,Gulfstream G150, 2005, 2 Jet engines
+https://asn.flightsafety.org/database/type/GALX,Gulfstream G200, 1997, 2 Jet engines
+https://asn.flightsafety.org/database/type/G280,Gulfstream G280, 2009, 2 Jet engines
+https://asn.flightsafety.org/database/type/GA5C,Gulfstream G500, 2015, 2 Jet engines
+https://asn.flightsafety.org/database/type/GLF5,Gulfstream G550, 2004, 2 Jet engines
+https://asn.flightsafety.org/database/type/G650,Gulfstream G650, 2009, 2 Jet engines
+https://asn.flightsafety.org/database/type/GLF4,Gulfstream GIV, 1985, 2 Jet engines
+https://asn.flightsafety.org/database/type/GLF3,Gulfstream III, 1979, 2 Jet engines
+https://asn.flightsafety.org/database/type/hphs,Handley Page Hastings, 1946, 4 Piston engines
+https://asn.flightsafety.org/database/type/hphm,Handley Page Hermes, 1945, 4 Piston engines
+https://asn.flightsafety.org/database/type/hph4,Handley Page HP.42, 1930, 4 Piston engines
+https://asn.flightsafety.org/database/type/HPR7,Handley Page HPR.7 Herald, 1955, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/JS1,Handley Page Jetstream 1, 1967, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/JS20,Handley Page Jetstream 200, , 2 Turboprop engines
+https://asn.flightsafety.org/database/type/hpto,Handley Page Type O, 1915, 2 Piston engines
+https://asn.flightsafety.org/database/type/hptw,Handley Page Type W, 1919, 3 Piston engines
+https://asn.flightsafety.org/database/type/Y12,Harbin Y-12, 1984, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/TRID,Hawker Siddeley HS-121 Trident, 1962, 3 Jet engines
+https://asn.flightsafety.org/database/type/H25A,Hawker Siddeley HS-125-600, , 2 Jet engines
+https://asn.flightsafety.org/database/type/H25B,Hawker Siddeley HS-125-700 / -800, , 2 Jet engines
+https://asn.flightsafety.org/database/type/A748,Hawker Siddeley HS-748 / HAL-748, 1960, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/NIM,Hawker Siddeley HS-801 Nimrod, 1967, 4 Jet engines
+https://asn.flightsafety.org/database/type/HDJT,Honda HA-420 HondaJet, 2003, 2 Jet engines
+https://asn.flightsafety.org/database/type/HD34,Hurel-Dubois HD, 1953, 2 Piston engines
+https://asn.flightsafety.org/database/type/WW23,IAI 1123 Westwind, , 2 Jet engines
+https://asn.flightsafety.org/database/type/WW24,IAI 1124 Westwind, 1963, 2 Jet engines
+https://asn.flightsafety.org/database/type/ASTR,IAI 1125 Astra, 1984, 2 Jet engines
+https://asn.flightsafety.org/database/type/ARVA,IAI Arava, 1969, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/_WW23,Aero Commander Jet Commander, , 2 Jet engines
+https://asn.flightsafety.org/database/type/i112,Ilyushin Il-112, 2019, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/I114,Ilyushin Il-114, 1990, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/il12,Ilyushin Il-12, 1945, 2 Piston engines
+https://asn.flightsafety.org/database/type/IL14,Ilyushin Il-14, 1950, 2 Piston engines
+https://asn.flightsafety.org/database/type/IL18,Ilyushin Il-18, 1957, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/IL38,Ilyushin Il-38, 1961, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/IL62,Ilyushin Il-62, 1963, 4 Jet engines
+https://asn.flightsafety.org/database/type/IL76,Ilyushin Il-76, 1971, 4 Jet engines
+https://asn.flightsafety.org/database/type/IL86,Ilyushin Il-86, 1976, 4 Jet engines
+https://asn.flightsafety.org/database/type/IL96,Ilyushin Il-96, 1988, 4 Jet engines
+https://asn.flightsafety.org/database/type/jg38,Junkers G.38, 1929, 4 Piston engines
+https://asn.flightsafety.org/database/type/JU52,Junkers Ju-52/3m, 1932, 3 Piston engines
+https://asn.flightsafety.org/database/type/ju90,Junkers Ju-90, 1937, 4 Piston engines
+https://asn.flightsafety.org/database/type/kln7,Kalinin K-7, 1933, 7 Piston engines
+https://asn.flightsafety.org/database/type/C1,Kawasaki C-1, 1970, 2 Jet engines
+https://asn.flightsafety.org/database/type/laur,Lascurain Aura, 1957, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/l631,Latécoère 631, 1942, 6 Piston engines
+https://asn.flightsafety.org/database/type/LJ23,Learjet 23, 1963, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ24,Learjet 24, 1966, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ25,Learjet 25, 1966, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ31,Learjet 31, 1987, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ35,Learjet 35 / 36, 1973, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ40,Learjet 40, 2002, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ45,Learjet 45, 1995, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ55,Learjet 55, 1979, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ60,Learjet 60, 1990, 2 Jet engines
+https://asn.flightsafety.org/database/type/LJ75,Learjet 75, , 2 Jet engines
+https://asn.flightsafety.org/database/type/L410,Let L-410, 1969, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/lo42,Lioré et Olivier H.242, 1929, 4 Piston engines
+https://asn.flightsafety.org/database/type/CONI,Lockheed (Super) Constellation, 1943, 4 Piston engines
+https://asn.flightsafety.org/database/type/C141,Lockheed C-141 Starlifter, 1963, 4 Jet engines
+https://asn.flightsafety.org/database/type/C5,Lockheed C-5 Galaxy, 1968, 4 Jet engines
+https://asn.flightsafety.org/database/type/C130,Lockheed Hercules, 1954, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/L101,Lockheed L-1011 TriStar, 1970, 3 Jet engines
+https://asn.flightsafety.org/database/type/_L29,Lockheed L-1329 Jetstar (all series), , 4 Jet engines
+https://asn.flightsafety.org/database/type/L29B,Lockheed L-1329 Jetstar 2, , 4 Jet engines
+https://asn.flightsafety.org/database/type/L29A,Lockheed L-1329 Jetstar 6, , 4 Jet engines
+https://asn.flightsafety.org/database/type/stlr,Lockheed L-1649 Starliner, 1956, 4 Piston engines
+https://asn.flightsafety.org/database/type/L188,Lockheed L-188 Electra, 1957, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/C30J,Lockheed Martin C-130J Super Hercules, 1996, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/P3,Lockheed P-3 Orion, 1958, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/L37,Lockheed Ventura, 1941, 2 Piston engines
+https://asn.flightsafety.org/database/type/m202,Martin 2-0-2, 1946, 2 Piston engines
+https://asn.flightsafety.org/database/type/M404,Martin 4-0-4, 1950, 2 Piston engines
+https://asn.flightsafety.org/database/type/m130,Martin M-130, 1934, 4 Piston engines
+https://asn.flightsafety.org/database/type/MARS,Martin Mars, 1942, 4 Piston engines
+https://asn.flightsafety.org/database/type/HF20,MBB HFB-320 Hansa Jet, 1964, 2 Jet engines
+https://asn.flightsafety.org/database/type/C17,McDonnell Douglas C-17 Globemaster III, 1991, 4 Jet engines
+https://asn.flightsafety.org/database/type/DC10,McDonnell Douglas DC-10, 1970, 3 Jet engines
+https://asn.flightsafety.org/database/type/_DC8,McDonnell Douglas DC-8, , 4 Jet engines
+https://asn.flightsafety.org/database/type/DC86,McDonnell Douglas DC-8-60, 1966, 4 Jet engines
+https://asn.flightsafety.org/database/type/DC87,McDonnell Douglas DC-8-70, 1982, 4 Jet engines
+https://asn.flightsafety.org/database/type/_DC9,McDonnell Douglas DC-9, , 2 Jet engines
+https://asn.flightsafety.org/database/type/DC91,McDonnell Douglas DC-9-10, 1965, 2 Jet engines
+https://asn.flightsafety.org/database/type/DC92,McDonnell Douglas DC-9-20, 1968, 2 Jet engines
+https://asn.flightsafety.org/database/type/DC93,McDonnell Douglas DC-9-30, 1966, 2 Jet engines
+https://asn.flightsafety.org/database/type/DC94,McDonnell Douglas DC-9-40, 1967, 2 Jet engines
+https://asn.flightsafety.org/database/type/DC95,McDonnell Douglas DC-9-50, 1974, 2 Jet engines
+https://asn.flightsafety.org/database/type/MD11,McDonnell Douglas MD-11, 1990, 3 Jet engines
+https://asn.flightsafety.org/database/type/_MD80,McDonnell Douglas MD-80 series, , 2 Jet engines
+https://asn.flightsafety.org/database/type/MD81,McDonnell Douglas MD-81, 1979, 2 Jet engines
+https://asn.flightsafety.org/database/type/MD82,McDonnell Douglas MD-82, 1981, 2 Jet engines
+https://asn.flightsafety.org/database/type/MD83,McDonnell Douglas MD-83, 1984, 2 Jet engines
+https://asn.flightsafety.org/database/type/MD87,McDonnell Douglas MD-87, 1986, 2 Jet engines
+https://asn.flightsafety.org/database/type/MD88,McDonnell Douglas MD-88, 1987, 2 Jet engines
+https://asn.flightsafety.org/database/type/MD90,McDonnell Douglas MD-90, 1993, 2 Jet engines
+https://asn.flightsafety.org/database/type/milm,Miles Marathon, 1946, 4 Piston engines
+https://asn.flightsafety.org/database/type/MU30,Mitsubishi Mu-300 Diamond 1, 1978, 2 Jet engines
+https://asn.flightsafety.org/database/type/MS76,Morane Saulnier MS.760 Paris, 1954, 2 Jet engines
+https://asn.flightsafety.org/database/type/SARA,NAL Saras, 2004, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/YS11,NAMC YS-11, 1962, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/NORA,Nord 2501 Noratlas, 1949, 2 Piston engines
+https://asn.flightsafety.org/database/type/N262,Nord 262, 1962, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/SBR1,North American Sabreliner, 1959, 2 Jet engines
+https://asn.flightsafety.org/database/type/rydr,Northrop YC-125B Raider, 1949, 3 Piston engines
+https://asn.flightsafety.org/database/type/PC24,Pilatus PC-24, 2015, 2 Jet engines
+https://asn.flightsafety.org/database/type/ptz0,Potez 840, 1961, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/ptz1,Potez-CAMS 161, 1942, 6 Piston engines
+https://asn.flightsafety.org/database/type/md12,PZL MD-12, 1959, 4 Piston engines
+https://asn.flightsafety.org/database/type/M28,PZL-Mielec M-28 Skytruck, 1993, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/PRM1,Raytheon Premier 1, 1998, 2 Jet engines
+https://asn.flightsafety.org/database/type/SBR2,Rockwell Sabreliner 75 / 80, , 2 Jet engines
+https://asn.flightsafety.org/database/type/SB20,SAAB 2000, 1992, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/SF34,SAAB 340, 1983, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/sb90,SAAB Scandia, 1946, 2 Piston engines
+https://asn.flightsafety.org/database/type/sm95,Savoia-Marchetti SM.95, 1943, 4 Piston engines
+https://asn.flightsafety.org/database/type/TPIN,Scottish Aviation Twin Pioneer, 1955, 2 Piston engines
+https://asn.flightsafety.org/database/type/US1,Shin Meiwa PS-1, 1967, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/US2,ShinMaywa US-2, 2003, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/sl17,Short L.17 Scylla, 1934, 4 Piston engines
+https://asn.flightsafety.org/database/type/ss17,Short S.17 Kent, 1931, 4 Piston engines
+https://asn.flightsafety.org/database/type/ss23,Short S.23 Empire, 1936, 4 Piston engines
+https://asn.flightsafety.org/database/type/SAND,Short S.25 Sandringham, 1937, 4 Piston engines
+https://asn.flightsafety.org/database/type/ss25,Short S.25 Sandringham/Sunderland, 1937, 4 Piston engines
+https://asn.flightsafety.org/database/type/ss26,Short S.26 G Class, 1939, 4 Piston engines
+https://asn.flightsafety.org/database/type/ss45,Short S.45 Solent, 1946, 4 Piston engines
+https://asn.flightsafety.org/database/type/SH33,Shorts 330, 1974, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/SH36,Shorts 360, 1981, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/SC7,Shorts SC.7 Skyvan, 1963, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/an2t,SibNIA TVS-2, 2018, 1 Turboprop engine
+https://asn.flightsafety.org/database/type/s42,Sikorsky S.42, 1934, 4 Piston engines
+https://asn.flightsafety.org/database/type/vs44,Sikorsky VS-44, 1937, 4 Piston engines
+https://asn.flightsafety.org/database/type/snc1,SNCAC NC.211 Cormoran, 1948, 4 Piston engines
+https://asn.flightsafety.org/database/type/h246,SNCASE (Lioré et Olivier) H.246, 1937, 4 Piston engines
+https://asn.flightsafety.org/database/type/s161,SNCASE SE.161 Languedoc, 1939, 4 Piston engines
+https://asn.flightsafety.org/database/type/s2h,SNCASE SE.200, 1942, 6 Piston engines
+https://asn.flightsafety.org/database/type/s201,SNCASE SE.2010 Armagnac, 1949, 4 Piston engines
+https://asn.flightsafety.org/database/type/SP33,Spectrum Aeronautical Spectrum 33, 2006, 2 Jet engines
+https://asn.flightsafety.org/database/type/S210,Sud Aviation SE-210 Caravelle, 1955, 2 Jet engines
+https://asn.flightsafety.org/database/type/SU95,Sukhoi Superjet 100, 2008, 2 Jet engines
+https://asn.flightsafety.org/database/type/SW4,Swearingen Metro / Merlin IV, 1969, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/SJ30,SyberJet SJ30-2, 1991, 2 Jet engines
+https://asn.flightsafety.org/database/type/C160,Transall C-160, 1963, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/ant2,Tupolev ANT-20, 1934, 8 Piston engines
+https://asn.flightsafety.org/database/type/tug2,Tupolev G-2, 1930, 4 Piston engines
+https://asn.flightsafety.org/database/type/t104,Tupolev Tu-104, 1955, 2 Jet engines
+https://asn.flightsafety.org/database/type/t114,Tupolev Tu-114, 1957, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/t124,Tupolev Tu-124, 1960, 2 Jet engines
+https://asn.flightsafety.org/database/type/T134,Tupolev Tu-134, 1963, 2 Jet engines
+https://asn.flightsafety.org/database/type/T144,Tupolev Tu-144, 1968, 4 Jet engines
+https://asn.flightsafety.org/database/type/T154,Tupolev Tu-154, 1968, 3 Jet engines
+https://asn.flightsafety.org/database/type/T204,Tupolev Tu-204, 1989, 2 Jet engines
+https://asn.flightsafety.org/database/type/VF14,VFW-614, 1971, 2 Jet engines
+https://asn.flightsafety.org/database/type/vltt,Vickers Valetta, 1947, 2 Piston engines
+https://asn.flightsafety.org/database/type/vang,Vickers Vanguard, 1959, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/vars,Vickers Varsity, 1949, 2 Piston engines
+https://asn.flightsafety.org/database/type/VC10,Vickers VC10, 1962, 4 Jet engines
+https://asn.flightsafety.org/database/type/vikg,Vickers Viking, 1945, 2 Piston engines
+https://asn.flightsafety.org/database/type/VISC,Vickers Viscount, 1948, 4 Turboprop engines
+https://asn.flightsafety.org/database/type/B18T,Volpar Turboliner, 1967, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/MA60,Xian MA-60, 2000, 2 Turboprop engines
+https://asn.flightsafety.org/database/type/YK40,Yakovlev Yak-40, 1966, 3 Jet engines
+https://asn.flightsafety.org/database/type/YK42,Yakovlev Yak-42, 1975, 3 Jet engines
